@@ -7,12 +7,9 @@ permalink: /
 ---
 
 # Ravi Murugesan
-<p class="fs-6 fw-300">
 Editor, Teacher, Techie
-</p>
 
-<div>
-  <img style="float: right; max-width: 30%; margin-left:15px;" src="ravi.jpg">
+<img style="float: right; max-width: 30%; margin-left:15px;" src="ravi.jpg">
 
 I have experience in
 
@@ -21,7 +18,6 @@ I have experience in
 - managing projects, analyzing data, and maintaining web applications.
 
 Check out my work samples on this site.
-</div>
 
 For my work history and recommendations, see my [LinkedIn profile](https://www.linkedin.com/in/ravimurugesan/).
 
