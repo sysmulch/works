@@ -9,6 +9,8 @@ permalink: /
 # Ravi Murugesan
 Editor, Teacher, Techie
 
+<div>
+  
 <img style="float: right; max-width: 30%; margin-left:15px;" src="ravi.jpg">
 
 I have experience in
@@ -16,6 +18,8 @@ I have experience in
 - diverse writing, editing, and training projects;
 - collaborating with stakeholders in scholarly publishing; and
 - managing projects, analyzing data, and maintaining web applications.
+
+</div>
 
 Check out my work samples on this site.
 
