@@ -13,11 +13,13 @@ Editor, Teacher, Techie
   
 <img style="float: right; max-width: 30%; margin-left:15px;" src="ravi.jpg">
 
-I have experience in
+<p>I have experience in</p>
 
-- diverse writing, editing, and training projects;
-- collaborating with stakeholders in scholarly publishing; and
-- managing projects, analyzing data, and maintaining web applications.
+<ul>
+  <li>diverse writing, editing, and training projects;</li>
+<li>collaborating with stakeholders in scholarly publishing; and</li>
+<li>managing projects, analyzing data, and maintaining web applications.</li>
+</ul>
 
 </div>
 
